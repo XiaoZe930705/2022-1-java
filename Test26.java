@@ -1,3 +1,4 @@
+//陣列反轉
 public class Test26{
     public static void main(String[] args){
         int[] myArr= {7,5,4,8,1,2};
